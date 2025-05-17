@@ -1,4 +1,4 @@
-Robust multi-label feature selection with shared label enhancement (2022)
+[Robust multi-label feature selection with shared label enhancement (2022)](https://link.springer.com/article/10.1007/s10115-022-01747-9)
 
 Authors = Yonghao Li, Juncheng Hu, and Wanfu Gao,
 
@@ -17,3 +17,32 @@ and label matrix. Third, local structure is considered to ensure the consistency
 joint learning framework, and then, a simple but effective optimization method with provable
 convergence is proposed to solve RLEFS. Experimental results demonstrate the classification
 superiority of RLEFS in comparison with seven state-of-the-art methods.
+
+If you find this implementation helpful in your work, please consider citing both the original paper and our related research on multi-label feature selection:
+
+## Original Paper:
+
+```
+@article{li2022robust,
+  title={Robust multi-label feature selection with shared label enhancement},
+  author={Li, Yonghao and Hu, Juncheng and Gao, Wanfu},
+  journal={Knowledge and Information Systems},
+  volume={64},
+  number={12},
+  pages={3343--3372},
+  year={2022},
+  publisher={Springer}
+}
+```
+## Our Paper:
+```
+@article{faraji2024multi,
+  title={Multi-label feature selection with global and local label correlation},
+  author={Faraji, Mohammad and Seyedi, Seyed Amjad and Tab, Fardin Akhlaghian and Mahmoodi, Reza},
+  journal={Expert Systems with Applications},
+  volume={246},
+  pages={123198},
+  year={2024},
+  publisher={Elsevier}
+}
+```
